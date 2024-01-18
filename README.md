@@ -1,9 +1,8 @@
 # Estatísticas
-### Status Gerais
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabloosegat)](https://github.com/pabloosegat/github-readme-stats)
-
-### Linguagens mais utilizadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloosegat)](https://github.com/pabloosegat/github-readme-stats)
+<div style="display: flex; flex-wrap: nowrap;">
+    <div>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pabloosegat)](https://github.com/pabloosegat/github-readme-stats)</div>
+    <div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pabloosegat)](https://github.com/pabloosegat/github-readme-stats)</div>
+</div>
 
 # Linguagens de Programação
 ### Tenho conhecimento
